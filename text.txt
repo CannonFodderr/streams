@@ -1,0 +1,3 @@
+this is some plain text,
+every line is seperated by a comma,
+so i can split it and later map
